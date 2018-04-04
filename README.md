@@ -1,2 +1,2 @@
 # Skills-world-cloud
-Simple frequency world cloud using RcolorBrewer in R
+Simple frequency word cloud using RcolorBrewer in R
